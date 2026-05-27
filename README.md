@@ -6,7 +6,7 @@ This Expense Tracker Web App is a simple tool built with HTML, CSS, and JavaScri
 - **Transaction Management:** Add income or expenses with ease by entering the transaction details.
 - **Dynamic Updates:** Real-time updates of balance, income, and expenses displayed on the interface.
 - **Transaction Removal:** Remove unwanted transactions seamlessly with a delete button.
-
+<!-- made an expense tracker -->
 ## Usage
 1. Open the web app in your browser.
 2. Enter the transaction details, including the transaction text and amount.

@@ -22,6 +22,7 @@ const balance = document.getElementById(
   // let transactions = dummyTransactions;
   
   //last 
+  //now check localStorage
   const localStorageTransactions = JSON.parse(localStorage.getItem('transactions'));
   
   let transactions = localStorage.getItem('transactions') !== null ? localStorageTransactions : [];
